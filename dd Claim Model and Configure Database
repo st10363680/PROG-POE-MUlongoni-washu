@@ -1,0 +1,3 @@
+Created the Claim model with necessary properties like LecturerName, Hours, and HourlyRate.
+Configured Entity Framework with TotalAmount as a computed column.
+Ran initial migrations and updated the database schema.
