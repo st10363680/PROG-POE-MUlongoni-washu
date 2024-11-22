@@ -1,0 +1,2 @@
+Added ClaimsController to manage submission, deletion, and approval of claims.
+Implemented actions: Submit, Delete, Approve, Reject, and TrackMyClaims.
